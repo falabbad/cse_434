@@ -1,0 +1,6 @@
+Local validation record
+=======================
+Syntax check passed for manager.py, peer.py, protocol.py, dht_utils.py and download_dataset.py.
+Three-peer loopback integration test: register, setup-dht falabbad 3 1950, count-report, dht-complete.
+Observed dataset rows=223, columns=51, prime table size=449; node counts summed to 223.
+Not claimed as tested here: full four-host video, year-1996 query set, join/leave/teardown full sequence. Verify on actual course hosts.
